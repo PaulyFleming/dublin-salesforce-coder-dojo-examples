@@ -1,5 +1,8 @@
 # Rock Band Project
 
+## Description
+Let's make a band. We'll make the instruments make noise when we click on them, and we'll animate lines so the instruments look like they are playing while they make noise.
+
 ## Topics Covered
 
 * Sprites (objects we can program)
