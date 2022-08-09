@@ -89,7 +89,7 @@ We will create an animation of space where there's a lost monkey floating in spa
     2. Can you make the rocks change position if they touch the monkey, earth or rocketship?
     3. Can you make the monkey move if the rocks or the rocketship touch it?
 
-Extra Challenges Solutions are in the "Lost In Space 2" file
+Extra Challenges Solutions are in the "Lost In Space 2" file/project
 
 
 

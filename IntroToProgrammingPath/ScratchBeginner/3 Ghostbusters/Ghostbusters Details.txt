@@ -72,9 +72,8 @@ Let's make our first game, where we will catch some ghosts.
         2. Change "my variable" to "score" so you have: `set "score" to "0"`
         3. Try putting this block before and after the forever loop and see what happens. Where is the correct location?
 14. Now let's add a timer to our game so it doesn't play forever and ever.
-
     1. Create a new variable called "time"
-    2. Click on the Stage editor and add a `when flag clicked` event block with the following code:
+    2. Add a second `when flag clicked` event block with the following code:
     3. Variables > `set "my variable" to "0"`
     4. Control > `repeat until`
     5. Inside the `reapeat` block add:
@@ -110,5 +109,6 @@ Let's make our first game, where we will catch some ghosts.
     5. Can you add a game over message when the timer runs out?
 
 Extra Challenges solutions are in the "Ghostbuters 2" file/project
+
 
     
